@@ -10,7 +10,6 @@ Our project was awarded a certificate of excellence and was placed as the second
 
 <p>To interact with the chatbot, click on the link below. Have fun :)</p>
 </p><a href="https://app.smojo.org/anneong/secur_IT" target="_blank">Secur_IT</a><p>
-<p><a href="https://app.smojo.org/anneong/secur_IT" target="_blank" >Secur_IT</a></p>
 
 <h1>Sneak Peak</h1>
   
