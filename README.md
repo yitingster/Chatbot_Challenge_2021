@@ -1,4 +1,4 @@
-# Chatbot_Challenge_2021
+# Deep Tech Movement Chatbot Challenge 2021 by AI4Impact
 
 <h1>Introduction</h1>
 <p>
@@ -12,4 +12,7 @@ Our project was awarded a certificate of excellence and was placed as the second
 <p><a href="https://app.smojo.org/anneong/secur_IT">Secur_IT</a></p>
 
 <h1>Sneak Peak</h1>
-   
+  
+![Screenshot](Secur_IT_Chatbot.png)
+
+
